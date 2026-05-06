@@ -1,5 +1,8 @@
 # HR Employee Attrition Tracker Dashboard
 
+## Dashboard Preview
+<img src="https://github.com/divyanshkumar19/Excel-Data-Analytics-Portfolio/blob/93793cee8ef6788fccc7d48f11e361a8b36704ea/HR-Attrition-Dashboard/HR-Employee-Attrition-Tracker-Dashboard.png" alt="Image Description" width="600">
+
 ## Project Overview
 The HR Employee Attrition Tracker Dashboard is created to analyze employee attrition patterns and identify the key factors affecting employee turnover in the organization. The dashboard helps in understanding attrition trends based on department, age group, job role, education, marital status, and salary band.
 
@@ -52,10 +55,4 @@ Employees in the low salary band have the highest attrition.
 - Dynamic charts and KPI cards
 - User-friendly dashboard design
 
-## Files Included
-- HR Attrition Dataset (.xlsx)
-- Dashboard Screenshot (.png/.jpg)
-- Excel Dashboard File
 
-## Dashboard Preview
-<img src="https://github.com/divyanshkumar19/Excel-Data-Analytics-Portfolio/blob/93793cee8ef6788fccc7d48f11e361a8b36704ea/HR-Attrition-Dashboard/HR-Employee-Attrition-Tracker-Dashboard.png" alt="Image Description" width="600">
