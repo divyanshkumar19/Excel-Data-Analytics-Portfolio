@@ -58,4 +58,4 @@ Employees in the low salary band have the highest attrition.
 - Excel Dashboard File
 
 ## Dashboard Preview
-<img src="https://github.com/divyanshkumar19/Excel-Data-Analytics-Portfolio/blob/0df38739a2f1883eff8ab307c9c22838fd4b36e9/Dashboard.jpg.png" alt="Image Description" width="600">
+<img src="https://github.com/divyanshkumar19/Excel-Data-Analytics-Portfolio/blob/93793cee8ef6788fccc7d48f11e361a8b36704ea/HR-Attrition-Dashboard/HR-Employee-Attrition-Tracker-Dashboard.png" alt="Image Description" width="600">
