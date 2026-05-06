@@ -6,6 +6,10 @@
 ## Project Overview
 The HR Employee Attrition Tracker Dashboard is created to analyze employee attrition patterns and identify the key factors affecting employee turnover in the organization. The dashboard helps in understanding attrition trends based on department, age group, job role, education, marital status, and salary band.
 
+### Dataset Source
+- IBM HR Analytics Employee Attrition Dataset
+- Dataset taken from Kaggle
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
